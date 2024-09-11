@@ -14,7 +14,7 @@ This project implements a RAGA (Retrieval Augmented Generation Assessment) metri
 1. Clone this repository:
    ```
    git clone https://github.com/Jasshporwal/RAGA.git
-   cd raga-metric-calculator
+   cd RAGA
    ```
 
 2. Install the required dependencies:
