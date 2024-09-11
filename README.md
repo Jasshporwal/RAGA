@@ -13,7 +13,7 @@ This project implements a RAGA (Retrieval Augmented Generation Assessment) metri
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/raga-metric-calculator.git
+   git clone https://github.com/Jasshporwal/RAGA.git
    cd raga-metric-calculator
    ```
 
@@ -26,7 +26,7 @@ This project implements a RAGA (Retrieval Augmented Generation Assessment) metri
 
 1. Start the FastAPI server:
    ```
-   python main.py or 
+   python main.py 
    ```
 
 2. The API will be available at `http://localhost:8000`. You can use the `/calculate_metrics` endpoint to calculate metrics.
